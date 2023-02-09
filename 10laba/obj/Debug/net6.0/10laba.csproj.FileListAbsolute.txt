@@ -1,0 +1,17 @@
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.csproj.AssemblyReference.cache
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.AssemblyInfoInputs.cache
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.AssemblyInfo.cs
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.csproj.CoreCompileInputs.cache
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/10laba
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/10laba.deps.json
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/10laba.runtimeconfig.json
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/10laba.dll
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/10laba.pdb
+/Users/maria/Projects/10laba/10laba/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.csproj.CopyComplete
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.dll
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/refint/10laba.dll
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.pdb
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/10laba.genruntimeconfig.cache
+/Users/maria/Projects/10laba/10laba/obj/Debug/net6.0/ref/10laba.dll
